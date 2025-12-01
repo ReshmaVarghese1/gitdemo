@@ -2,7 +2,7 @@ package gitdemo;
 
 public class demo {
 	demo(){
-		System.out.println("my git demo22");
+		System.out.println("my git demo22667777");
 		
 	}
 
